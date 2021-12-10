@@ -1,0 +1,6 @@
+# ignore all .zip and .gz giles
+
+*.zip
+*.gz
+
+**/EthicsOath.pdf
