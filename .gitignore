@@ -2,8 +2,10 @@
 
 *.zip
 *.gz
-*/.*
+**/.*
+.*
 
+**/._.DS_Store
 .gitignore
 
 **/EthicsOath.pdf
