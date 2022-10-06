@@ -2,6 +2,9 @@
 
 *.zip
 *.gz
+*/.*
+
+.gitignore
 
 **/EthicsOath.pdf
 ._20180756_assign5
